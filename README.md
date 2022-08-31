@@ -1,2 +1,12 @@
-# Boston
-Boston Assignment
+<html>
+  <head>
+    <title>Walk Through Boston Data</title>
+  </head>
+  <body>
+    <div id="container">
+      <!-- populated by JS-->
+    </div>
+    <script src="./data.js"></script>
+    <script src="./walkboston.js"></script>
+  </body>
+</html>
