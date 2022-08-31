@@ -49,5 +49,5 @@ function renderTopEmployees(boston, container) {
   container.innerHTML += '<ul id = "topEmployees">' + html + '</ul>';
 }
 
-renderTopSalaries(boston, document.getElementById('container')); //step 1 solution
-renderTopEmployees(boston, document.getElementById('container')); //step 2 solution
+renderTopSalaries(boston, document.getElementById('container')); 
+renderTopEmployees(boston, document.getElementById('container')); 
